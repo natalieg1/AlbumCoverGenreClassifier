@@ -1,1 +1,1 @@
-# AlbumCoverGenreClassifier
+# Album Cover Genre Classifier
